@@ -36,3 +36,9 @@ cloudinary_python.txt
 .vscode
 CVS
 
+# Files:Exclude
+**/.git
+**/.svn
+**/.hg
+**/.DS_Store
+**/Thumbs.db
